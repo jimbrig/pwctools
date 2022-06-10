@@ -5,9 +5,9 @@
 
 <!-- badges: start -->
 [![Lifecycle: Experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![R-CMD-check](https://github.com/jimbrig/pwctools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/R-CMD-check.yaml)
-[![Generate CHANGELOG.md](https://github.com/jimbrig/pwctools/actions/workflows/git-cliff.yml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/git-cliff.yml)
-[![pkgdown](https://github.com/jimbrig/pwctools/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/pkgdown.yaml)
+[![R-CMD-Check](https://github.com/jimbrig/pwctools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/R-CMD-check.yaml)
+[![Changelog](https://github.com/jimbrig/pwctools/actions/workflows/git-cliff.yml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/git-cliff.yml)
+[![PkgDown](https://github.com/jimbrig/pwctools/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/jimbrig/pwctools/actions/workflows/pkgdown.yaml)
 [![Test Coverage](https://codecov.io/gh/jimbrig/pwctools/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jimbrig/pwctools?branch=main)
 <!-- badges: end -->
 
