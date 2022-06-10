@@ -14,6 +14,7 @@
 - Update pkgdoc and pkgdevt
 - Add GHA for checking package
 - Build configs
+- Add cyborg bootswatch theme
 
 ### Data
 
@@ -48,6 +49,7 @@
 - Autopublish 2022-06-10T22:04:23Z
 - Autopublish 2022-06-10T22:11:40Z
 - Autopublish 2022-06-10T22:13:58Z
+- Autopublish 2022-06-10T22:15:38Z
 
 ### Testing
 
