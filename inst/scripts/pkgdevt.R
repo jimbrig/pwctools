@@ -71,7 +71,7 @@ c(
 
 c(
   # add function test file names here:
-
+  "pwc_colors"
 ) |> purrr::walk(usethis::use_test)
 
 # data --------------------------------------------------------------------
@@ -86,10 +86,15 @@ c(
 c(
   # add vignette names here:
   "pwctools"
-
 ) |> purrr::walk(usethis::use_vignette)
 
 
+# utils -------------------------------------------------------------------
 
-
-
+usethis::use_coverage()
+devtools::build_readme()
+usethis::use_github_action("test-coverage")
+usethis::use_spell_check()
+usethis::use_pkgdown_github_pages()
+usethis::use_lifecycle_badge("experimental")
+devtools::build_readme()

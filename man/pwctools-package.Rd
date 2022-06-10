@@ -12,6 +12,7 @@ Internal tools for PwC Developers.
 Useful links:
 \itemize{
   \item \url{https://github.com/jimbrig/pwctools}
+  \item \url{https://jimbrig.github.io/pwctools/}
   \item Report bugs at \url{https://github.com/jimbrig/pwctools/issues}
 }
 
