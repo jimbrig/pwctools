@@ -4,7 +4,7 @@
 # pwctools
 
 <!-- badges: start -->
-
+[![codecov](https://codecov.io/gh/jimbrig/pwctools/branch/main/graph/badge.svg?token=fAT0k4SAR8)](https://codecov.io/gh/jimbrig/pwctools)
 [![Codecov test
 coverage](https://codecov.io/gh/jimbrig/pwctools/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jimbrig/pwctools?branch=main)
 [![Lifecycle:
