@@ -36,6 +36,10 @@
 - Add coverage
 - Add pkgdown
 
+### Miscellaneous Tasks
+
+- Autopublish 2022-06-10T21:40:10Z
+
 ### Testing
 
 - Initialize testthat and add pwc_colors tests
