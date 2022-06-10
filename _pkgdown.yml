@@ -2,3 +2,10 @@ url: https://jimbrig.github.io/pwctools/
 template:
   bootstrap: 5
 
+reference:
+  - title: "Colors"
+    desc: >
+      Utilities to implement custom PwC color palette.
+    contents:
+      - pwc_colors
+      - view_pwc_colors
