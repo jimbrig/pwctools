@@ -5,3 +5,8 @@
 ^data-raw$
 ^cliff\.toml$
 ^CHANGELOG\.md$
+^codecov\.yml$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

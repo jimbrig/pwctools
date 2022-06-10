@@ -6,7 +6,8 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: Internal tools for PwC Developers.
 License: MIT + file LICENSE
-URL: https://github.com/jimbrig/pwctools
+URL: https://github.com/jimbrig/pwctools,
+    https://jimbrig.github.io/pwctools/
 BugReports: https://github.com/jimbrig/pwctools/issues
 Depends: 
     R (>= 2.10)
@@ -16,3 +17,11 @@ Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
+Suggests: 
+    covr,
+    knitr,
+    rmarkdown,
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
