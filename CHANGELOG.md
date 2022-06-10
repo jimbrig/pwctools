@@ -28,6 +28,7 @@
 - Initialize vignettes
 - Add badges to README
 - Covrpage assets
+- Pkgdown enhancements
 
 ### Features
 
@@ -44,6 +45,7 @@
 - Autopublish 2022-06-10T21:44:58Z
 - Autopublish 2022-06-10T21:48:22Z
 - Autopublish 2022-06-10T22:01:25Z
+- Autopublish 2022-06-10T22:04:23Z
 
 ### Testing
 
