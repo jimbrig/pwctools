@@ -1,6 +1,7 @@
 url: https://jimbrig.github.io/pwctools/
 template:
   bootstrap: 5
+  bootswatch: cyborg
 
 reference:
   - title: "Colors"
