@@ -30,6 +30,7 @@
 - Add badges to README
 - Covrpage assets
 - Pkgdown enhancements
+- Add suite of asset images
 - Enhance README and add image
 
 ### Features
@@ -52,6 +53,7 @@
 - Autopublish 2022-06-10T22:13:58Z
 - Autopublish 2022-06-10T22:15:38Z
 - Autopublish 2022-06-10T22:17:41Z
+- Autopublish 2022-06-10T22:26:12Z
 
 ### Testing
 
