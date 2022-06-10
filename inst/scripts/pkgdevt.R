@@ -49,7 +49,8 @@ usethis::use_github(private = TRUE)
 # github labels -----------------------------------------------------------
 library(templateeR)
 templateeR::use_gh_labels()
-
+templateeR::use_git_cliff()
+templateeR::use_git_cliff_action()
 
 # package docs ------------------------------------------------------------
 
