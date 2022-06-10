@@ -29,6 +29,7 @@ usethis::create_package("pwctools")
 usethis::use_namespace()
 usethis::use_roxygen_md()
 usethis::use_git()
+usethis::use_package_doc()
 usethis::use_tibble() # #' @return a [tibble][tibble::tibble-package]
 usethis::use_pipe()
 usethis::use_tidy_eval()
@@ -39,14 +40,14 @@ devtools::document()
 
 # set description and title first so included in GH repo
 desc::desc_set(
-  "Description" = "My awesome description.",
-  "Title" = "My awesome title"
+  "Description" = "Internal tools for PwC Developers.",
+  "Title" = "PwC Toolkit"
 )
 
-usethis::use_github(private = FALSE)
+usethis::use_github(private = TRUE)
 
 # github labels -----------------------------------------------------------
-
+library(templateeR)
 templateeR::use_gh_labels()
 
 
@@ -54,7 +55,6 @@ templateeR::use_gh_labels()
 
 usethis::use_readme_rmd()
 usethis::use_mit_license()
-usethis::use_package_doc()
 usethis::use_news_md()
 
 
@@ -62,8 +62,7 @@ usethis::use_news_md()
 
 c(
   # add function file names here:
-  "utils",
-  "zzz"
+  "pwc_colors"
 ) |> purrr::walk(usethis::use_r, open = FALSE)
 
 
@@ -78,7 +77,7 @@ c(
 
 c(
   # add data prep script names here:
-
+  "color_palette"
 ) |> purrr::walk(usethis::use_data_raw)
 
 # vignettes ---------------------------------------------------------------
